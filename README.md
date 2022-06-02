@@ -10,5 +10,3 @@ Horiseon is a website designed to help your business grow by helping maintain yo
 
 [https://khristopher-schick.github.io/Module-1-/](https://khristopher-schick.github.io/Module-1-/)
 
-
-![Image](https://courses.bootcampspot.com/courses/2328/files/1677335/preview)
